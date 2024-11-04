@@ -5,12 +5,12 @@ const PROJECTS: Projects = [
   {
     name: "Healthify Me",
     description:
-      "🚀MyFitnessPal is a leading health and fitness tracking application that serves a diverse user base. The app primarily focuses on diet tracking, exercise logging, and overall wellness.Improve user engagement and user retention, which are critical for maintaining a loyal user base, driving premium subscriptions, and increasing revenue.",
+      "HealthifyMe aimed to improve user engagement within their app to increase retention and daily active users. The challenge was to identify features that could be optimized or introduced to keep users consistently engaged, particularly in a highly competitive health and fitness market.",
 
     imageUrl: "/skills/HealthifyMe.svg",
     urls: {
       repo: GITHUB_LINK + "/colorcraft",
-      liveDemo: "https://harshcreation.notion.site/Product-Improvement-by-Harsh-e6b009891e104febaccef9acce3f77fa?pvs=4",
+      liveDemo: "https://www.canva.com/design/DAGK1_7nOTk/JfmFMJYWuy5E8kgQ4yGZkg/view?utm_content=DAGK1_7nOTk&utm_campaign=designshare&utm_medium=link&utm_source=editor#1",
     },
   },
   {
@@ -28,7 +28,7 @@ const PROJECTS: Projects = [
   {
     name: "Phonepe Case study",
     description:
-      "Snaky offers a modern take on the classic Snake game. Navigate your snake to eat food and grow longer, but avoid hitting the walls or yourself to keep playing.",
+      "Conducted an in-depth analysis of user demographics, transaction behaviors, and engagement patterns. This segmentation informed growth strategies, allowing for more precise targeting of features and marketing efforts to different user groups, ultimately driving higher engagement and customer lifetime value.",
 
     imageUrl: "/projects/project1/phonepe.svg",
     urls: {
@@ -39,7 +39,7 @@ const PROJECTS: Projects = [
   {
     name: "Cafeteria App",
     description:
-      "Snaky offers a modern take on the classic Snake game. Navigate your snake to eat food and grow longer, but avoid hitting the walls or yourself to keep playing.",
+      "Designed and developed a user-friendly app that allowed employees to easily order meals, view menus, and provide feedback. The app focused on personalization and convenience, aiming to enhance the overall workplace experience by reducing wait times and improving food options.",
 
     imageUrl: "/projects/project1/pd.png",
     urls: {
@@ -50,7 +50,7 @@ const PROJECTS: Projects = [
   {
     name: "Flipkart RCA",
     description:
-      "Snaky offers a modern take on the classic Snake game. Navigate your snake to eat food and grow longer, but avoid hitting the walls or yourself to keep playing.",
+      " Flipkart experienced a noticeable decline in the number of items being added to shopping carts, which was impacting conversion rates and revenue. The challenge was to identify the root causes of this decline and propose actionable solutions.",
 
     imageUrl: "/projects/project1/fk.svg",
     urls: {
@@ -61,12 +61,12 @@ const PROJECTS: Projects = [
   {
     name: "Product Space Growth",
     description:
-      "Snaky offers a modern take on the classic Snake game. Navigate your snake to eat food and grow longer, but avoid hitting the walls or yourself to keep playing.",
+      "The growth assignment involved conducting market research, analyzing competitor strategies, and applying growth frameworks to develop a strategic plan. This included identifying target segments, optimizing the product’s value proposition, and designing experiments to test various growth hypotheses. The assignment culminated in a detailed growth plan that was well-received, contributing to finishing in the top 5% of the cohort and securing 3rd place in the capstone project.",
 
     imageUrl: "/projects/project1/ps.svg",
     urls: {
       repo: GITHUB_LINK + "/snakey",
-      liveDemo: "https://snake-y.vercel.app",
+      liveDemo: "https://productspace-collegecollab.my.canva.site/",
     },
   },
   {
@@ -83,7 +83,7 @@ const PROJECTS: Projects = [
   {
     name: "Phonepe & Uber",
     description:
-      "Snaky offers a modern take on the classic Snake game. Navigate your snake to eat food and grow longer, but avoid hitting the walls or yourself to keep playing.",
+      " Uber needed to better understand its diverse user base to tailor its services and marketing strategies effectively. The challenge was to segment users based on their usage patterns, preferences, and geographic locations.PhonePe needed to identify key drivers of user acquisition and retention, with a focus on effectively segmenting its user base for targeted marketing and feature rollouts.",
 
     imageUrl: "/projects/project1/pu.svg",
     urls: {
